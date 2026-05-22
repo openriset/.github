@@ -80,6 +80,7 @@ Ini disengaja. Tujuannya adalah bahwa OpenRiset suatu hari bisa berjalan tanpa K
 
 | Repositori | Fungsi |
 |---|---|
+| [openriset/citation](https://github.com/openriset/citation) | Sistem sitasi dan manajemen referensi untuk karya ilmiah |
 | [openriset/community](https://github.com/openriset/community) | Dokumen governance, RFC, funding, outreach — bagaimana organisasi ini dikelola |
 | [openriset/spec](https://github.com/openriset/spec) | Spesifikasi teknis, keputusan arsitektur, riset tentang platform serupa |
 | [openriset/.github](https://github.com/openriset/.github) | Profil organisasi ini |
